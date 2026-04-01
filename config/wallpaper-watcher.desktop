@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Wallpaper Watcher
+Exec=bash -c "nohup /home/ostap/.local/bin/wal-watch.sh > /dev/null 2>&1 &"
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Icon=preferences-desktop-wallpaper
